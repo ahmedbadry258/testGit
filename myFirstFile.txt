@@ -1,4 +1,0 @@
-ITI
-Git
-Java se
-Spring boot
