@@ -1,3 +1,12 @@
+<<<<<<< HEAD
 hello
 welcome
 asd
+=======
+<<<<<<< HEAD
+hello ahmed
+=======
+hello
+>>>>>>> master
+new word
+>>>>>>> new_branch
