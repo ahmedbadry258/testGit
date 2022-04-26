@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 hello
 welcome
 asd
@@ -12,3 +13,5 @@ new word
 >>>>>>> new_branch
 insert from git bash here
 				
+=======
+>>>>>>> parent of 5e788a1... add text
