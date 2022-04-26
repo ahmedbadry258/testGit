@@ -10,3 +10,5 @@ hello
 >>>>>>> master
 new word
 >>>>>>> new_branch
+insert from git bash here
+				
