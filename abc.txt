@@ -2,3 +2,4 @@ test Add Line From Branch Feature 2
 Add Line From Master
 Add Another Line From Master
 Line From Feature 2
+Hello From Master 2
