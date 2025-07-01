@@ -1,1 +1,17 @@
-Test First Line .
+<<<<<<< HEAD
+<<<<<<< HEAD
+hello
+welcome
+asd
+=======
+<<<<<<< HEAD
+hello ahmed
+=======
+hello
+>>>>>>> master
+new word
+>>>>>>> new_branch
+insert from git bash here
+				
+=======
+>>>>>>> parent of 5e788a1... add text
